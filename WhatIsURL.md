@@ -15,15 +15,15 @@
  
 3. The resource name is the complete address to the resource. The format of the resource name depends entirely on the protocol used, but for many protocols, including HTTP, the resource name contains one or more of the following components:
 
-**Host Name**
+**Host Name**  
 The name of the machine on which the resource lives.
 
-**Filename**
+**Filename**  
 The pathname to the file on the machine.
 
-**Port Number**
+**Port Number**  
 The port number to which to connect (typically optional).
 
-**Reference**
+**Reference**  
 A reference to a named anchor within a resource that usually identifies a specific location within a file (typically optional).
 
