@@ -6,6 +6,6 @@
 
 | Definition |
 | :------------- |
-| URL is an acronym for Uniform Resource Locator and is a reference (an address) to a resource on the Internet. |
+| URL is an acronym for **Uniform Resource Locator** and is a reference (an address) to a resource on the Internet. |
 
 2. 
