@@ -9,5 +9,16 @@
 7. URL: uniform resource locator. 
 8. URI: uniform resource identifier. 
 9. CSS: cascading style sheets. 
-10. 
+
+##URL
+
+1. DNS: domain name serves
+2. 
+
+## Socket
+
+1. TCP
+2. Socket: A socket is one end-point of a two-way communication link between two programs running on the network. Socket classes are used to represent the connection between a client program and a server program.  
+3. Endpoint: An endpoint is a combination of an IP address and a port number.  
+4. 
 
