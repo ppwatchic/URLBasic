@@ -9,6 +9,6 @@
 
 2. A URL has two main components
 
-.* Protocol identifier: For the URL http://example.com, the protocol identifier is http.
+  * Protocol identifier: For the URL http://example.com, the protocol identifier is http.
 
-.* Resource name: For the URL http://example.com, the resource name is example.com.
+  * Resource name: For the URL http://example.com, the resource name is example.com.
